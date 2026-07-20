@@ -1,0 +1,733 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\unity\\defense\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\buildingtypeselectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildingtypeselectui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\buildingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildingmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\tooltipui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tooltipui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\mouseenterexitevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mouseenterexitevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\buildingghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildingghost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\buildingdemolishbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildingdemolishbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|d:\\unity\\defense\\assets\\scripts\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\daynightcycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|d:\\unity\\defense\\assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\building.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\enemywavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemywavemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\coloreffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\coloreffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\\defense\\Library\\PackageCache\\com.unity.render-pipelines.core@7.7.1\\Runtime\\Volume\\Volume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.render-pipelines.core@7.7.1\\Runtime\\Volume\\Volume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\cinemathineshake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cinemathineshake.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\constructiontimerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\constructiontimerui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\camerahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerahandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\buildingconstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildingconstruction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\buildingrepairbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildingrepairbtn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\musicmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenuui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\optionsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\optionsui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\unity\\defense\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Editor\\UI\\ToggleEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Library\\PackageCache\\com.unity.ugui@1.0.0\\Editor\\UI\\ToggleEditor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gameoverui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\healthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\enemywaveui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemywaveui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\gamesencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamesencemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\resourcesui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcesui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\buildingtypeholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildingtypeholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\resourceamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourceamount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\buildingtypeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildingtypeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\arrowprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\arrowprojectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\tower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\spritepostionsortingorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spritepostionsortingorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\utilsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utilsclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\resourcegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\resourcenearbyoverlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcenearbyoverlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\resourcetypeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcetypeso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\buildingtypelistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buildingtypelistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\resourcetypelistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcetypelistso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\resourcenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcenode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\resourcegeneratordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcegeneratordata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|D:\\unity\\defense\\assets\\scripts\\resourcegeneratoroverlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D18852BA-C8B7-E873-F940-71615ECC2A16}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\resourcegeneratoroverlap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 40,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DayNightCycle.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\DayNightCycle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DayNightCycle.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\DayNightCycle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DayNightCycle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T12:02:46.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Volume.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Library\\PackageCache\\com.unity.render-pipelines.core@7.7.1\\Runtime\\Volume\\Volume.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.render-pipelines.core@7.7.1\\Runtime\\Volume\\Volume.cs",
+              "ToolTip": "D:\\unity\\defense\\Library\\PackageCache\\com.unity.render-pipelines.core@7.7.1\\Runtime\\Volume\\Volume.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.render-pipelines.core@7.7.1\\Runtime\\Volume\\Volume.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T07:23:59.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ColorEffect.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\ColorEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ColorEffect.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\ColorEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ColorEffect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T07:51:02.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CineMathineShake.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\CineMathineShake.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CineMathineShake.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\CineMathineShake.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CineMathineShake.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T07:33:23.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ToggleEditor.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Editor\\UI\\ToggleEditor.cs",
+              "RelativeDocumentMoniker": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Editor\\UI\\ToggleEditor.cs",
+              "ToolTip": "D:\\unity\\defense\\Library\\PackageCache\\com.unity.ugui@1.0.0\\Editor\\UI\\ToggleEditor.cs",
+              "RelativeToolTip": "Library\\PackageCache\\com.unity.ugui@1.0.0\\Editor\\UI\\ToggleEditor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-11T03:02:33.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MainMenuUI.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\MainMenuUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuUI.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\MainMenuUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T03:54:25.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OptionsUI.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\OptionsUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\OptionsUI.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\OptionsUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\OptionsUI.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwDQAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T02:20:37.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MusicManager.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MusicManager.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\MusicManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MusicManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-10T02:50:06.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SoundManager.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\SoundManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SoundManager.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDMAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T12:04:46.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BuildingRepairBtn.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\BuildingRepairBtn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildingRepairBtn.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\BuildingRepairBtn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildingRepairBtn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T07:31:59.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "GameSenceManager.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\GameSenceManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameSenceManager.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\GameSenceManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameSenceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T07:14:33.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "GameOverUI.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\GameOverUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameOverUI.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\GameOverUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameOverUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T06:56:07.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BuildingDemolishBtn.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\BuildingDemolishBtn.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildingDemolishBtn.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\BuildingDemolishBtn.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildingDemolishBtn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-08T03:17:26.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ConstructionTimerUI.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\ConstructionTimerUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ConstructionTimerUI.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\ConstructionTimerUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ConstructionTimerUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T13:58:56.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BuildingConstruction.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\BuildingConstruction.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildingConstruction.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\BuildingConstruction.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildingConstruction.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB8AAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T13:01:57.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EnemyWaveUI.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\EnemyWaveUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyWaveUI.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\EnemyWaveUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyWaveUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-06T13:00:21.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnemyWaveManager.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\EnemyWaveManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyWaveManager.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\EnemyWaveManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyWaveManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAqwEQAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-05T07:21:37.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ArrowProjectile.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\ArrowProjectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ArrowProjectile.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\ArrowProjectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ArrowProjectile.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAywDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T12:43:33.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Tower.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\Tower.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Tower.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\Tower.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Tower.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwEYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T12:22:55.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemy.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemy.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAApwCUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-04T02:42:33.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HealthBar.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthBar.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\HealthBar.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthBar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T03:16:17.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Building.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\Building.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Building.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\Building.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Building.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIA1wDgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-03T02:38:35.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HealthSystem.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\HealthSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthSystem.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\HealthSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthSystem.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwDUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T13:25:16.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MouseEnterExitEvents.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\MouseEnterExitEvents.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseEnterExitEvents.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\MouseEnterExitEvents.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseEnterExitEvents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T07:42:56.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TooltipUI.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\TooltipUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TooltipUI.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\TooltipUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TooltipUI.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAqwEYAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T05:49:04.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ResourceAmount.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\ResourceAmount.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResourceAmount.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\ResourceAmount.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResourceAmount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T12:14:13.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ResourceNearbyOverlap.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\ResourceNearbyOverlap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResourceNearbyOverlap.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\ResourceNearbyOverlap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResourceNearbyOverlap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T11:26:17.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ResourceGeneratorOverlap.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\ResourceGeneratorOverlap.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResourceGeneratorOverlap.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\ResourceGeneratorOverlap.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResourceGeneratorOverlap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-01T10:48:03.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ResourceNode.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\ResourceNode.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResourceNode.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\ResourceNode.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResourceNode.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T10:27:44.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "SpritePostionSortingOrder.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\SpritePostionSortingOrder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpritePostionSortingOrder.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\SpritePostionSortingOrder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpritePostionSortingOrder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T08:25:54.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "UtilsClass.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\UtilsClass.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UtilsClass.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\UtilsClass.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UtilsClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T03:23:53.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuildingGhost.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\BuildingGhost.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildingGhost.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\BuildingGhost.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildingGhost.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAiwCkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T03:18:22.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BuildingTypeSelectUI.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\BuildingTypeSelectUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildingTypeSelectUI.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\BuildingTypeSelectUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildingTypeSelectUI.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAywHkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T11:58:26.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CameraHandler.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\CameraHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraHandler.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\CameraHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T07:25:31.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ResourcesUI.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\ResourcesUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResourcesUI.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\ResourcesUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResourcesUI.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T13:20:27.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BuildingTypeHolder.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\BuildingTypeHolder.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildingTypeHolder.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\BuildingTypeHolder.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildingTypeHolder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T11:30:02.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ResourceGeneratorData.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\ResourceGeneratorData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResourceGeneratorData.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\ResourceGeneratorData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResourceGeneratorData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T11:21:42.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "ResourceGenerator.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\ResourceGenerator.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResourceGenerator.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\ResourceGenerator.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResourceGenerator.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAywD8AAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T11:13:51.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ResourceTypeListSO.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\ResourceTypeListSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResourceTypeListSO.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\ResourceTypeListSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResourceTypeListSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T08:55:08.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ResourceTypeSO.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\ResourceTypeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResourceTypeSO.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\ResourceTypeSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResourceTypeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T08:54:39.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ResourceManager.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\ResourceManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ResourceManager.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\ResourceManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ResourceManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T08:53:14.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "BuildingTypeListSO.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\BuildingTypeListSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildingTypeListSO.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\BuildingTypeListSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildingTypeListSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T08:22:38.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BuildingTypeSO.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\BuildingTypeSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildingTypeSO.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\BuildingTypeSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildingTypeSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T07:27:39.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuildingManager.cs",
+              "DocumentMoniker": "D:\\unity\\defense\\Assets\\Scripts\\BuildingManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BuildingManager.cs",
+              "ToolTip": "D:\\unity\\defense\\Assets\\Scripts\\BuildingManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BuildingManager.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAxwAwAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-26T06:09:00.419Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
