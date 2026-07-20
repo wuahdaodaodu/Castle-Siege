@@ -34,15 +34,4 @@ UI：UGUI + TextMeshPro
 架构：单例管理器（CameraHandler、BuildingManager、ResourceManager、WaveManager、SoundManager 等）
 资源管理：ScriptableObject（建筑配置表、资源配置表）
 
-defense/
-├── Assets/                # 游戏核心资源
-│   ├── Scripts/           # 所有C#脚本（管理器、UI、建筑、怪物、工具类）
-│   ├── Prefabs/           # 建筑、怪物、UI预制体
-│   ├── Sprites/           # 图片精灵、UI图标
-│   ├── ScriptableObjects/ # SO配置文件（建筑、资源、音效）
-│   ├── Scenes/            # 游戏场景、主菜单场景
-│   └── UI/                # 界面面板、按钮模板
-├── ProjectSettings/       # Unity项目配置
-├── Packages/              # 包管理器配置
-├── .gitignore             # Git忽略文件（屏蔽Library、Temp、缓存文件）
-└── README.md              # 项目说明文档
+## 项目目录说明
