@@ -37,9 +37,9 @@ UI：UGUI + TextMeshPro
 
 ## 项目目录结构
 
+```
 defense/
-├──
-Assets/ # 游戏核心资源
+├── Assets/ # 游戏核心资源
 │ ├── Scripts/ # 全部 C# 脚本（管理器、UI、建筑、怪物、通用工具）
 │ ├── Prefabs/ # 建筑、怪物、弹窗 UI 预制体
 │ ├── Sprites/ # 游戏精灵、UI 图标素材
@@ -50,3 +50,4 @@ Assets/ # 游戏核心资源
 ├── Packages/ # Package Manager 包配置
 ├── .gitignore # Git 忽略规则，屏蔽 Library、Temp、编译缓存
 └── README.md # 项目说明文档
+```
